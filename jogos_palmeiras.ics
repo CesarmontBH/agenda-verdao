@@ -1,195 +1,347 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Palmeiras//BR
-X-WR-CALNAME:Jogos do Palmeiras
+METHOD:PUBLISH
+X-WR-CALNAME:Verdão 2026
 BEGIN:VEVENT
-SUMMARY:⚽  (Grêmio)
+SUMMARY:v 🏠 Palmeiras x  [21:]
 DTSTART:20260402T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20260402T200000
+LOCATION:Grêmio
+DESCRIPTION:Campeonato: 21:30
+Local: CASA
+Estádio: Grêmio
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Bahia (Palmeiras)
+SUMMARY:v ✈️ Bahia x Palmeiras [19:]
 DTSTART:20260405T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20260405T200000
+LOCATION:Palmeiras
+DESCRIPTION:Campeonato: 19:30
+Local: FORA
+Estádio: Palmeiras
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Atlético Junior (Palmeiras)
+SUMMARY:v ✈️ Atlético Junior x Palmeiras [21:]
 DTSTART:20260408T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20260408T200000
+LOCATION:Palmeiras
+DESCRIPTION:Campeonato: 21:30
+Local: FORA
+Estádio: Palmeiras
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Corinthians (Palmeiras)
+SUMMARY:v ✈️ Corinthians x Palmeiras [A d]
 DTSTART:20260411T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20260411T200000
+LOCATION:Palmeiras
+DESCRIPTION:Campeonato: A definir
+Local: FORA
+Estádio: Palmeiras
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽  (Sporting Cristal)
+SUMMARY:v 🏠 Palmeiras x  [19:]
 DTSTART:20260416T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20260416T200000
+LOCATION:Sporting Cristal
+DESCRIPTION:Campeonato: 19:00
+Local: CASA
+Estádio: Sporting Cristal
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽  (Athletico Paranaense)
+SUMMARY:v 🏠 Palmeiras x  [A d]
 DTSTART:20260418T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20260418T200000
+LOCATION:Athletico Paranaense
+DESCRIPTION:Campeonato: A definir
+Local: CASA
+Estádio: Athletico Paranaense
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽  (Jacuipense)
+SUMMARY:vIda 🏠 Palmeiras x  [A d]
 DTSTART:20260422T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20260422T200000
+LOCATION:Jacuipense
+DESCRIPTION:Campeonato: A definir
+Local: CASA
+Estádio: Jacuipense
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Red Bull Bragantino (Palmeiras)
+SUMMARY:v ✈️ Red Bull Bragantino x Palmeiras [A d]
 DTSTART:20260425T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20260425T200000
+LOCATION:Palmeiras
+DESCRIPTION:Campeonato: A definir
+Local: FORA
+Estádio: Palmeiras
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Cerro Porteño (Palmeiras)
+SUMMARY:v ✈️ Cerro Porteño x Palmeiras [21:]
 DTSTART:20260429T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20260429T200000
+LOCATION:Palmeiras
+DESCRIPTION:Campeonato: 21:30
+Local: FORA
+Estádio: Palmeiras
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽  (Santos)
+SUMMARY:v 🏠 Palmeiras x  [A d]
 DTSTART:20260502T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20260502T200000
+LOCATION:Santos
+DESCRIPTION:Campeonato: A definir
+Local: CASA
+Estádio: Santos
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Sporting Cristal (Palmeiras)
+SUMMARY:v ✈️ Sporting Cristal x Palmeiras [19:]
 DTSTART:20260505T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20260505T200000
+LOCATION:Palmeiras
+DESCRIPTION:Campeonato: 19:00
+Local: FORA
+Estádio: Palmeiras
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Remo (Palmeiras)
+SUMMARY:v ✈️ Remo x Palmeiras [A d]
 DTSTART:20260509T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20260509T200000
+LOCATION:Palmeiras
+DESCRIPTION:Campeonato: A definir
+Local: FORA
+Estádio: Palmeiras
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Jacuipense (Palmeiras)
+SUMMARY:vVolta ✈️ Jacuipense x Palmeiras [A d]
 DTSTART:20260513T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20260513T200000
+LOCATION:Palmeiras
+DESCRIPTION:Campeonato: A definir
+Local: FORA
+Estádio: Palmeiras
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽  (Cruzeiro)
+SUMMARY:v 🏠 Palmeiras x  [A d]
 DTSTART:20260516T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20260516T200000
+LOCATION:Cruzeiro
+DESCRIPTION:Campeonato: A definir
+Local: CASA
+Estádio: Cruzeiro
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽  (Cerro Porteño)
+SUMMARY:v 🏠 Palmeiras x  [21:]
 DTSTART:20260520T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20260520T200000
+LOCATION:Cerro Porteño
+DESCRIPTION:Campeonato: 21:30
+Local: CASA
+Estádio: Cerro Porteño
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Flamengo (Palmeiras)
+SUMMARY:v ✈️ Flamengo x Palmeiras [A d]
 DTSTART:20260523T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20260523T200000
+LOCATION:Palmeiras
+DESCRIPTION:Campeonato: A definir
+Local: FORA
+Estádio: Palmeiras
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽  (Atlético Junior)
+SUMMARY:v 🏠 Palmeiras x  [19:]
 DTSTART:20260528T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20260528T200000
+LOCATION:Atlético Junior
+DESCRIPTION:Campeonato: 19:00
+Local: CASA
+Estádio: Atlético Junior
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽  (Chapecoense)
+SUMMARY:v 🏠 Palmeiras x  [A d]
 DTSTART:20260530T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20260530T200000
+LOCATION:Chapecoense
+DESCRIPTION:Campeonato: A definir
+Local: CASA
+Estádio: Chapecoense
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Coritiba (Palmeiras)
+SUMMARY:v ✈️ Coritiba x Palmeiras [A d]
 DTSTART:20260722T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20260722T200000
+LOCATION:Palmeiras
+DESCRIPTION:Campeonato: A definir
+Local: FORA
+Estádio: Palmeiras
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽  (Atlético-MG)
+SUMMARY:v 🏠 Palmeiras x  [A d]
 DTSTART:20260725T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20260725T200000
+LOCATION:Atlético-MG
+DESCRIPTION:Campeonato: A definir
+Local: CASA
+Estádio: Atlético-MG
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Vitória (Palmeiras)
+SUMMARY:v ✈️ Vitória x Palmeiras [A d]
 DTSTART:20260729T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20260729T200000
+LOCATION:Palmeiras
+DESCRIPTION:Campeonato: A definir
+Local: FORA
+Estádio: Palmeiras
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽  (Internacional)
+SUMMARY:v 🏠 Palmeiras x  [A d]
 DTSTART:20260808T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20260808T200000
+LOCATION:Internacional
+DESCRIPTION:Campeonato: A definir
+Local: CASA
+Estádio: Internacional
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Fluminense (Palmeiras)
+SUMMARY:v ✈️ Fluminense x Palmeiras [A d]
 DTSTART:20260815T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20260815T200000
+LOCATION:Palmeiras
+DESCRIPTION:Campeonato: A definir
+Local: FORA
+Estádio: Palmeiras
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽  (Vasco da Gama)
+SUMMARY:v 🏠 Palmeiras x  [A d]
 DTSTART:20260822T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20260822T200000
+LOCATION:Vasco da Gama
+DESCRIPTION:Campeonato: A definir
+Local: CASA
+Estádio: Vasco da Gama
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Mirassol (Palmeiras)
+SUMMARY:v ✈️ Mirassol x Palmeiras [A d]
 DTSTART:20260829T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20260829T200000
+LOCATION:Palmeiras
+DESCRIPTION:Campeonato: A definir
+Local: FORA
+Estádio: Palmeiras
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Botafogo (Palmeiras)
+SUMMARY:v ✈️ Botafogo x Palmeiras [A d]
 DTSTART:20260905T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20260905T200000
+LOCATION:Palmeiras
+DESCRIPTION:Campeonato: A definir
+Local: FORA
+Estádio: Palmeiras
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽  (São Paulo)
+SUMMARY:v 🏠 Palmeiras x  [A d]
 DTSTART:20260912T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20260912T200000
+LOCATION:São Paulo
+DESCRIPTION:Campeonato: A definir
+Local: CASA
+Estádio: São Paulo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Grêmio (Palmeiras)
+SUMMARY:v ✈️ Grêmio x Palmeiras [A d]
 DTSTART:20260919T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20260919T200000
+LOCATION:Palmeiras
+DESCRIPTION:Campeonato: A definir
+Local: FORA
+Estádio: Palmeiras
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽  (Bahia)
+SUMMARY:v 🏠 Palmeiras x  [A d]
 DTSTART:20261007T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20261007T200000
+LOCATION:Bahia
+DESCRIPTION:Campeonato: A definir
+Local: CASA
+Estádio: Bahia
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽  (Corinthians)
+SUMMARY:v 🏠 Palmeiras x  [A d]
 DTSTART:20261010T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20261010T200000
+LOCATION:Corinthians
+DESCRIPTION:Campeonato: A definir
+Local: CASA
+Estádio: Corinthians
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Athletico Paranaense (Palmeiras)
+SUMMARY:v ✈️ Athletico Paranaense x Palmeiras [A d]
 DTSTART:20261017T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20261017T200000
+LOCATION:Palmeiras
+DESCRIPTION:Campeonato: A definir
+Local: FORA
+Estádio: Palmeiras
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽  (Red Bull Bragantino)
+SUMMARY:v 🏠 Palmeiras x  [A d]
 DTSTART:20261024T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20261024T200000
+LOCATION:Red Bull Bragantino
+DESCRIPTION:Campeonato: A definir
+Local: CASA
+Estádio: Red Bull Bragantino
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Santos (Palmeiras)
+SUMMARY:v ✈️ Santos x Palmeiras [A d]
 DTSTART:20261028T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20261028T200000
+LOCATION:Palmeiras
+DESCRIPTION:Campeonato: A definir
+Local: FORA
+Estádio: Palmeiras
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽  (Remo)
+SUMMARY:v 🏠 Palmeiras x  [A d]
 DTSTART:20261104T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20261104T200000
+LOCATION:Remo
+DESCRIPTION:Campeonato: A definir
+Local: CASA
+Estádio: Remo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Cruzeiro (Palmeiras)
+SUMMARY:v ✈️ Cruzeiro x Palmeiras [A d]
 DTSTART:20261118T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20261118T200000
+LOCATION:Palmeiras
+DESCRIPTION:Campeonato: A definir
+Local: FORA
+Estádio: Palmeiras
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽  (Flamengo)
+SUMMARY:v 🏠 Palmeiras x  [A d]
 DTSTART:20261121T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20261121T200000
+LOCATION:Flamengo
+DESCRIPTION:Campeonato: A definir
+Local: CASA
+Estádio: Flamengo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Chapecoense (Palmeiras)
+SUMMARY:v ✈️ Chapecoense x Palmeiras [A d]
 DTSTART:20261128T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20261128T200000
+LOCATION:Palmeiras
+DESCRIPTION:Campeonato: A definir
+Local: FORA
+Estádio: Palmeiras
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽  (Coritiba)
+SUMMARY:v 🏠 Palmeiras x  [A d]
 DTSTART:20261202T200000
-DESCRIPTION:Atualizado via Python
+DTEND:20261202T200000
+LOCATION:Coritiba
+DESCRIPTION:Campeonato: A definir
+Local: CASA
+Estádio: Coritiba
 END:VEVENT
 END:VCALENDAR
